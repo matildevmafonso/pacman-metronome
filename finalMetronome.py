@@ -7,7 +7,7 @@ strong_beat = simpleaudio.WaveObject.from_wave_file('strong_beat.wav')
 weak_beat = simpleaudio.WaveObject.from_wave_file('weak_beat.wav')
 sub_strong_beat = simpleaudio.WaveObject.from_wave_file('sub_strong_beat.wav')
 
-theme_colors = {'bg': '#84A6D3', 'text':'#F7F5F4', 'label_bg':'#A9C6C1', 'scale_through':'#F7F2DD'}
+theme_colors = {'bg': '#BDD4F1', 'text':'#7C8584', 'label_bg':'#BAA287', 'scale_through':'#121B28'}
 theme_fonts = ['Comfortaa']
 tempo_range = [30, 230]
 defaults = {'tempo': 120, 'scale_length': 500}
